@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pinball Design]]></title>
         <description><![CDATA[Pinball Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pinball-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 14:19:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 17:57:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pinball-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Anxiously awaiting arrival of FadeCandy.</p>]]></description>
-            <link>undefined9bde8062-0c7f-4227-bc69-1df50bc97c15/index.html</link>
+            <title><![CDATA[waiting]]></title>
+            <description><![CDATA[<article><h1>waiting</h1><p>Anxiously awaiting arrival of FadeCandy.</p></article>]]></description>
+            <link>https://thegrid.ai/pinball-design/9bde8062-0c7f-4227-bc69-1df50bc97c15/index.html</link>
             <guid isPermaLink="false">9bde8062-0c7f-4227-bc69-1df50bc97c15</guid>
-            <pubDate>Mon, 09 Nov 2015 14:19:27 GMT</pubDate>
+            <pubDate>Mon, 09 Nov 2015 17:57:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
