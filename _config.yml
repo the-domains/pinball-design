@@ -1,6 +1,6 @@
 name: Pinball Design
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.53825
 typography_spectrum: 1
 title: from web designer to pinball designer
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.75
   saturation: 0.5625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
