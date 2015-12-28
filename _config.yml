@@ -1,7 +1,7 @@
 name: Pinball Design
 favicon: null
 layout_spectrum: 0.53825
-typography_spectrum: 1
+typography_spectrum: 0.38564
 title: from web designer to pinball designer
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010101'
-    - '#fefefe'
-    - '#464646'
-    - '#656565'
-    - '#9f9f9f'
+    - '#040404'
+    - '#fffffd'
+    - '#ff00ff'
+    - '#ff860c'
+    - '#6b4c21'
   brandStrength: 0.5
   lightness: 0.75
   saturation: 0.5625
