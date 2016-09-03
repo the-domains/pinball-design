@@ -1,5 +1,30 @@
-title: from web designer to pinball designer
-purpose: []
+typography_spectrum: 0.38564
+color:
+  saturation: 0.5625
+  brandStrength: 0.5
+  rhythmicContrast: 0.75
+  brandColors:
+    - '#040404'
+    - '#fffffd'
+    - '#ff00ff'
+    - '#ff860c'
+    - '#6b4c21'
+  lightness: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9659498
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Pinball Design
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5625
-  brandStrength: 0.5
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#040404'
-    - '#fffffd'
-    - '#ff00ff'
-    - '#ff860c'
-    - '#6b4c21'
-  lightness: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Pinball Design
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.38564
-layout_spectrum: 0.9659498
+title: from web designer to pinball designer
+purpose: []
